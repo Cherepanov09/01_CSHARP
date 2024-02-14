@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Console.Writeline("Hello world");
+
+
+int value = 100;
+Console.Writeline(value);
+
+double d = 5.55
+char c = '!';
+bool b = true; 
+Console.Writeline(d);
+Console.Writeline(c);
+Console.Writeline(b);
